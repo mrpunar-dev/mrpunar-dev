@@ -1,71 +1,78 @@
 <div align="center">
+  <!-- Premium Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:1e293b,100:00d2ff&height=240&section=header&text=Punarjeet%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=High-Level%20Developer%20%7C%20Cybersecurity%20%26%20AI&descAlignY=58&descAlign=50&descColor=00d2ff" width="100%"/>
+  
+  <br/>
+  
+  <!-- Dynamic Animated Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Punarjeet+%F0%9F%91%8B;Aspiring+High-Level+Developer;Cybersecurity+%26+AI+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Punarjeet%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=High-Level%20Developer%20%7C%20Cybersecurity%20%26%20AI%20Enthusiast&descAlignY=55&descAlign=50&descColor=58A6FF" width="100%"/>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Punarjeet+%F0%9F%91%8B;Aspiring+High-Level+Developer;Cybersecurity+%26+AI+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=mrpunar-dev&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
-
+  <!-- Modern Badges for Socials & Views -->
+  <p align="center">
+    <a href="https://linkedin.com/in/punarjeet-singh-a13b40327" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://discord.gg/CNb8AF6w" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://instagram.com/punar_jeet_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="mailto:punarjeetsingh82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=mrpunar-dev&style=flat-square&color=00d2ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-<br>
+---
 
 ## 💫 About Me
 
-```yaml
-🔭 Current Focus:  Real-world projects (AI + Web + IoT concepts)
-🌱 Learning:       C, Data Structures & Algorithms, Networking
-💡 Exploring:      Cybersecurity & AI Integration
-🎯 Goal:           Become a high-level developer + security expert
-⚡ Fun Fact:       I love turning ideas into working prototypes!
-```
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <p>I am an aspiring <b>High-Level Developer</b> and <b>Security Expert</b> focused on bridging the gap between robust software architecture, AI integration, and core cybersecurity principles.</p>
+      
+      * 🔭 **Current Focus:** Engineering real-world projects combining AI, advanced Web systems, and IoT concepts.
+      * 🌱 **Deep Diving:** C, Data Structures & Algorithms (DSA), and Computer Networking fundamentals.
+      * 💡 **Exploring:** Threat intelligence, automated security protocols, and secure AI deployment.
+      * ⚡ **Fun Fact:** I thrive on taking abstract concepts from a sketchbook and turning them into functional, production-ready prototypes.
+    </td>
+    <td width="45%" valign="top" align="center">
+      <!-- Dynamic Activity Quote or Feature Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpunar-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://discord.gg/CNb8AF6w" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/punar_jeet_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/punarjeet-singh-a13b40327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:punarjeetsingh82@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br>
+---
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,java,js,css,dotnet,supabase,firebase,mysql,figma,photoshop,premiere,powershell,windows&theme=dark&perline=9" />
-</p>
-
-<br>
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrpunar-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=mrpunar-dev&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,html,css,dotnet&theme=dark" alt="Programming Languages & Frameworks"/>
+  <br/>
+  <!-- Databases, Cloud & Design Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,powershell,windows,figma,photoshop,premiere&theme=dark" alt="Tools & Databases"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpunar-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%"/>
-</div>
+---
 
-<br>
+## 📊 Git Insights & Analytics
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0F2027&height=120&section=footer" width="100%"/>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mrpunar-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com/?user=mrpunar-dev&theme=tokyonight&hide_border=true" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+  <!-- Premium Sleek Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0b0f19&height=100&section=footer" width="100%"/>
+</div>
