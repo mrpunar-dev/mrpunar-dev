@@ -46,7 +46,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,cpp,python,html,java,js,css,dotnet,supabase,firebase,mysql,figma,photoshop,premiere,powershell,windows&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,java,js,css,dotnet,supabase,firebase,mysql,figma,photoshop,premiere,powershell,windows&theme=dark&perline=9" />
 </p>
 
 <br>
@@ -60,15 +60,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpunar-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpunar-dev&theme=tokyo-night&hide_border=true" width="48%"/>
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrpunar-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
